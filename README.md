@@ -158,12 +158,12 @@ psql -d aviation_indonesia -f aviation_portfolio.sql
 
 ---
 
-## Dataset Unik: Kenapa Penerbangan Domestik Indonesia?
+## Dataset: Kenapa Penerbangan Domestik Indonesia?
 
 - **Kompleksitas geografis**: 17.000+ pulau = jaringan rute unik
 - **Variasi maskapai**: dari Garuda (full service) hingga Wings Air (turboprop perintis)
 - **Regulasi khusus**: DGCA (Direktorat Jenderal Perhubungan Udara) punya standar berbeda
-- **Data realisme**: Kode IATA, nama bandara, rute — semuanya nyata
+- **Data realisme**: Kode IATA, nama bandara, rute semuanya nyata
 - **Relevansi bisnis**: Delay, safety, load factor = KPI standar industri
 
 ---
@@ -175,6 +175,6 @@ psql -d aviation_indonesia -f aviation_portfolio.sql
 3. **Bandara tersibuk** berdasarkan total pergerakan pesawat
 4. **Safety risk ranking** maskapai berdasarkan severity insiden
 5. **Hub-spoke network** dua lapis dari Soekarno-Hatta
-6. **Data Quality Report** — berapa % data yang kotor di setiap tabel
+6. **Data Quality Report** berapa % data yang kotor di setiap tabel
 
 ---
