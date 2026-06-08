@@ -1,4 +1,4 @@
-# ✈️ Portofolio Data Analyst: Operasional Penerbangan Domestik Indonesia
+# Portofolio Data Analyst: Operasional Penerbangan Domestik Indonesia
 ![Dashboard](images/aviation_dashboard.png)
 
 **Tools:** PostgreSQL | **Level:** Intermediate–Advanced  
@@ -178,20 +178,3 @@ psql -d aviation_indonesia -f aviation_portfolio.sql
 6. **Data Quality Report** — berapa % data yang kotor di setiap tabel
 
 ---
-
-## Skills yang Ditunjukkan
-
-- ✅ Identifikasi & dokumentasi masalah data (dirty data audit)
-- ✅ Data cleaning dengan SQL murni (tanpa Python/tools eksternal)
-- ✅ Normalisasi data semi-terstruktur (TEXT → typed)
-- ✅ Deduplication dengan window functions
-- ✅ Multi-table JOIN (2–4 tabel) termasuk self-join
-- ✅ Subquery: scalar, derived table, correlated
-- ✅ CTE: simple, chained, recursive
-- ✅ Window functions: RANK, SUM OVER, ROW_NUMBER
-- ✅ Business reporting & KPI dashboard
-- ✅ Data modeling: star schema sederhana
-
----
-
-*Dibuat untuk portofolio Data Analyst | Dataset: Simulasi berdasarkan data publik IATA*
